@@ -6,5 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>encryptionDemo</module>
+  	<module>threadDemo</module>
+  	<module>dailyDemo-thread</module>
   </modules>
 </project>
